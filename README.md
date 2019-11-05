@@ -1,0 +1,2 @@
+# JamCoin
+Cryptocurrency blockchain
